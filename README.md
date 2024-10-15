@@ -1,4 +1,4 @@
-# TripAdvisor Review Scraper
+# Playing in Go.
 
 ## Build Instructions
 
