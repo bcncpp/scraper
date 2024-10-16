@@ -1,4 +1,4 @@
-module github.com/algo7/TripAdvisor-Review-Scraper/scraper
+module github.com/bcncpp/scraper
 
 go 1.21.1
 
