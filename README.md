@@ -19,7 +19,7 @@ git clone https://github.com/bcncpp/scraper.git
 ```
 2. Navigate to the project folder and build the Go project:
 ```
-   cd scraper
+cd scraper
 go build
 ```
 ### Usage
